@@ -10,5 +10,5 @@ function LazyComponent() {
     </div>
   )
 }
-
+   
 export default LazyComponent;
